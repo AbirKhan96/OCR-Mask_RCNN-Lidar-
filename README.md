@@ -1,2 +1,2 @@
-# OCR + Mask_RCNN + Lidar
+# :pushpin:OCR + Mask_RCNN + Lidar
 This Repo contains OCR Pipeline which works with Lidar. 
